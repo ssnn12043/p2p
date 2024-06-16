@@ -1,0 +1,17 @@
+.rickshaw_graph {
+    display: none;
+}
+
+#chart_container {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    opacity: 0.8;
+    display: none;
+}
+.show {
+    display: block;
+}
+body {
+    margin: unset;
+}
